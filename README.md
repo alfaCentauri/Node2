@@ -1,10 +1,10 @@
-#EJEMPLO DE NODEJS#
+# EJEMPLO DE NODEJS #
 Este es un ejemplo del uso de nodejs, para obtener los parametros enviados por medio una petición de usuario, utilizando el módulo de "yargs" y "lodash".
 
-##Requisitos##
+## Requisitos ##
 - Nodejs 10 o superior.
 
-##Instalación##
+## Instalación ##
 - Clonar el repositorio.
 - Ejecutar **npm install**.
 - Abrir la consola y ubicarse en el directorio raíz del proyecto.
